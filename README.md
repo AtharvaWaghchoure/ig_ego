@@ -1,4 +1,4 @@
 # ig_ego
 
 **Dependencies**
-  Selenium
+  * Selenium
